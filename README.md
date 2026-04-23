@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -32,7 +36,7 @@ I tend to ask:
 * **Modern Mobile UI**: Created a sleek Android client using **Kotlin** and **Jetpack Compose** with a reactive data layer.
 * **Admin Dashboard**: Built a comprehensive web interface with **React** to manage announcements, user statistics, and email logs.
 
-> **Focus**: Built to scale beyond “it works on my machine.”
+> **Focus**: Built to scale beyond "it works on my machine."
 
 ---
 
@@ -79,12 +83,12 @@ I tend to ask:
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 * 💼 **LinkedIn**: [linkedin.com/in/raphaelomorose](https://linkedin.com/in/raphaelomorose)
 * 🧑‍💻 **GitHub**: [github.com/OfficialEseosa](https://github.com/OfficialEseosa)
 
-If you’re building something that survives contact with real users, I’m listening.
+If you're building something that survives contact with real users, I'm listening.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OfficialEseosa&color=0039A6&style=flat-square&label=PROFILE+VIEWS" />
