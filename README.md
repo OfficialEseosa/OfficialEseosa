@@ -126,7 +126,7 @@ Hyper-local social + dating platform for GSU.
 <div align="center">
 
 <a href="https://open.spotify.com/user/raphaelomorose">
-  <img src="https://novatorem-six-xi.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <img src="https://novatorem-ashen-one.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
 </a>
 
 <br/><br/>
