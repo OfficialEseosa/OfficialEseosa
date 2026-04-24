@@ -126,18 +126,10 @@ Hyper-local social + dating platform for GSU.
 <div align="center">
 
 <a href="https://open.spotify.com/user/raphaelomorose">
-  <img src="https://novatorem-ashen-one.vercel.app/" alt="Spotify Now Playing" width="350" />
-</a>
-
-<br/><br/>
-
-<a href="https://open.spotify.com/user/raphaelomorose">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=raphaelomorose&count=5&unique=true" alt="Recently Played Tracks" width="500" />
+  <img src="https://novatorem-ashen-one.vercel.app/" alt="Spotify Now Playing" width="400" />
 </a>
 
 </div>
-
-> 🎼 *Music fuels code.* Afrobeats, hip-hop, occasional lo-fi detour.
 
 ---
 
